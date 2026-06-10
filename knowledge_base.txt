@@ -1,0 +1,66 @@
+AI Engineer Interview Knowledge Base
+
+Python:
+Python is a high-level programming language used for AI, machine learning, automation, web development, and data science.
+
+Generative AI:
+Generative AI creates new content such as text, images, code, and audio using machine learning models.
+
+Large Language Models (LLMs):
+LLMs are AI models trained on large amounts of text data to understand and generate human language.
+
+RAG:
+Retrieval-Augmented Generation combines information retrieval with LLMs.
+It first retrieves relevant information from a knowledge base and then generates answers using that information.
+
+Embeddings:
+Embeddings are numerical vector representations of text used for similarity search.
+
+Vector Database:
+A vector database stores embeddings and helps retrieve similar information quickly.
+
+FAISS:
+FAISS is a vector similarity search library developed by Meta. It is commonly used in RAG applications.
+
+LangChain:
+LangChain is a framework used to build LLM-powered applications and RAG systems.
+
+Prompt Engineering:
+Prompt engineering is the process of designing prompts to get better responses from AI models.
+
+Docker:
+Docker is a containerization platform used to package and deploy applications consistently.
+
+Linux:
+Linux is an operating system widely used for AI deployment and cloud infrastructure.
+
+API Development:
+APIs allow applications to communicate with each other and are commonly built using FastAPI or Flask.
+
+AI Deployment:
+AI deployment involves hosting machine learning or LLM models for real-world use.
+
+Interview Preparation:
+For AI Engineer interviews prepare:
+Python
+Data Structures and Algorithms
+Machine Learning Basics
+Generative AI
+RAG
+Embeddings
+Vector Databases
+FAISS
+LangChain
+Prompt Engineering
+Docker
+Linux
+Git and GitHub
+
+Common Interview Questions:
+What is RAG?
+What are embeddings?
+What is FAISS?
+How does vector search work?
+What is prompt engineering?
+What is chunking?
+How would you build an AI chatbot?

@@ -8,7 +8,7 @@ import os
 from dotenv import load_dotenv
 
 try:
-    from google import genai
+    import google.generativeai as genai
 except Exception:
     genai = None
 

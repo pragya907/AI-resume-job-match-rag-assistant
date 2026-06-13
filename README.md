@@ -1,5 +1,8 @@
 # AI Resume & Job Match RAG Assistant
 
+## Live Demo
+
+[Open Live App](https://ai-resume-job-match-rag-assistant-6udu4c7nuomszd8und4p8a.streamlit.app/)
 ## Overview
 
 AI-powered Resume and Job Description Matching System built using Python, Streamlit, FAISS, Sentence Transformers, and Gemini LLM integration.
